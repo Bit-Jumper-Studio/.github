@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-**This README will filled later**
-<!--
+## Who are we? (writing: @Silletr)
 
-**Here are some ideas to get you started:**
+**Organization creator is** - *Brazilian guy*, and as _I know he is fucked up guy on Programming Languages_, he literally re-created my **  Rython** to fucking compiler like C - i`m scared xD (i dont know anything more about he, really)
+![San Paulo Image](./images/SaoPauloGithub.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+> P.S - I dont`ve anything against hem, just write was I thinking just now :)
+
+
+**Silletr (me)** - *Ukrainian* coder, _thinking about code even without light_, ***writing TODO list in my notebook second day in row***
+![Kyiv City Image](./images/KyivGithubImage.jpg) <br>(Its on peacefully time)
+
+
+> P.S - More info about me - on my telegram channel, or discord channel, [or even GitHub Profile](https://github.com/Silletr)
