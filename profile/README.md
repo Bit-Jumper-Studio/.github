@@ -2,7 +2,7 @@
 
 ## Who are we? (writing: @Silletr)
 
-**Organization creator is** - *Brazilian guy*, and as _I know he is fucked up guy on Programming Languages_, he literally re-created my **  Rython** to fucking compiler like C - i`m scared xD (i dont know anything more about he, really)
+**Organization creator is** - *Brazilian guy*, and as _I know he is fucked up guy on Programming Languages_, he literally re-created my **Rython** to fucking compiler like C - i`m scared xD (i dont know anything more about he, really)
 ![San Paulo Image](./images/SaoPauloGithub.jpg)
 
 
