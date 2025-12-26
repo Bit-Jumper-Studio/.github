@@ -6,7 +6,7 @@
 ![San Paulo Image](./images/SaoPauloGithub.jpg)
 
 
-> P.S - I dont`ve anything against hem, just write was I thinking just now :)
+> P.S - I dont`ve anything against him, just write was I thinking just now :)
 
 
 **Silletr (me)** - *Ukrainian* coder, _thinking about code even without light_, ***writing TODO list in my notebook second day in row***
